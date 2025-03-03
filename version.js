@@ -1,2 +1,2 @@
-let version = '6.0.0';
+let version = '7.0.0';
 console.log("version = ", version);
